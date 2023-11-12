@@ -1,7 +1,13 @@
 # Steganography Project README
 
 ## Introduction
-Steganography is the art and science of concealing information within other data, making it a useful technique for secure communication. This project focuses on converting an image file into an encrypted image file using steganography.
+Steganography falls within the realm of cryptography, a specialized discipline within the field of cybersecurity.
+
+### What is Steganography?
+Steganography is the art and science of concealing information within other data, making it a useful technique for secure communication. This project focuses on converting an image file into an encrypted image file using steganography
+
+### So what is Cryptography and how it relates to Steganography?
+Cryptography is the practice of securing communication through the use of codes and ciphers. It is related to steganography as both aim to conceal information, with cryptography focusing on encryption and steganography on hiding data within other media. Together, they enhance data confidentiality and security in various fields, including cybersecurity.
 
 ## Problem Statement
 Traditional encryption methods may not provide sufficient security during data transmission. Steganography offers an alternative by hiding information within seemingly innocuous files, adding an extra layer of confidentiality.
