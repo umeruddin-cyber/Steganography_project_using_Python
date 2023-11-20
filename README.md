@@ -1,5 +1,15 @@
 # Steganography Project README
 
+...
+
+## How to Access the Project
+
+### Cloning the Repository
+To clone the entire repository, use the following command on the Linux terminal (or) on gitbash for Windows :
+
+```bash
+git clone https://github.com/umeruddin-cyber/Steganography_project_using_Python.git
+
 ## Introduction
 Steganography falls within the realm of cryptography, a specialized discipline within the field of cybersecurity.
 
